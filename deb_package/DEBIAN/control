@@ -5,7 +5,7 @@ Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Section: utils
 Architecture: all
 Priority: optional
-Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, libnss3-tools, safenetauthenticationclient, safesignidentityclient, brynativemodule
+Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, libnss3-tools, safenetauthenticationclient, safesignidentityclient, brynativemodule, lacuna-webpki
 Homepage: https://ailtonbsj.github.io
 Description: Support of some USB Token
  The USB Tokens supported are GD StarSign Crypto e Aladdin eToken PRO USB 72k.
